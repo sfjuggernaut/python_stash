@@ -1,0 +1,2 @@
+DEBUG = True
+ANIMAL = 'wombats'
